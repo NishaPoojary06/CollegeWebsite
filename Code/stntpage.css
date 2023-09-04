@@ -1,0 +1,64 @@
+body{
+	align-items:center;
+	background-color:black;
+}
+.box{
+	width:250px;
+	height:280px;
+	padding:35px;
+	margin:100px;
+	background-color:gray;
+	align-items:center;
+	display:flex;
+	position:relative;
+	border:2px solid black;
+	border-radius:10px;
+	
+}
+*{
+	align-items:center;
+}
+.head
+{
+	background:rgb(0,100,0);
+	height:7%;
+}
+.box label 
+{
+	margin:10px;
+}
+.box input
+{
+	margin:8px;
+	padding:5px;
+	/*visibility:hidden;
+	opacity:0;*/
+	
+	
+}
+.box button
+{
+	/*margin-right:5px;
+	/margin:6px;/*bothered me with displaying text in lines */
+	padding:5px;
+	align-items:right;
+	justify-content:right;
+	border:1px solid gray;
+	border-radius:15px;
+	position:absolute;/*to move the button to the right*/
+	bottom:25px;
+	/*background:purple;*/
+	
+}
+	
+.box button:hover
+{
+	background:rgb(0,100,0);
+	/*color:white;*/
+	
+}
+/*.box input:hover
+{
+	visibility:visible;
+	opacity:1;
+}

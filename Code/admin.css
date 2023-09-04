@@ -1,0 +1,36 @@
+.box
+	{
+		width:250px;
+		height:250px;
+		align-items:center;
+		margin:100px;
+		border:1px solid gray;
+		padding:30px
+		}
+		.box label 
+{
+	margin:10px;
+}
+.box input
+{
+	margin:10px;
+	padding:5px;
+	
+	
+}
+.box button
+{
+	
+	margin:10px;
+	padding:8px;
+	
+}
+.btn
+{
+	align-items:center;
+}
+.btn button 
+{
+		visibility:hidden;
+		text-decoration:none;
+}
