@@ -1,5 +1,4 @@
 # CollegeWebsite
-# College Website for Viewing Student Results
 
 This is a college website that is designed to allow students to view their results. Only admins can add results to the database.
 
